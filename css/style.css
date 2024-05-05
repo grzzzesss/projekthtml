@@ -2,7 +2,7 @@
 @import url("font-awesome.min.css");
 body {
   font-family: "poppins", sans-serif;
-  color: #197500;
+  color: #000000;
   background-color: #197500;
 }
 
@@ -617,7 +617,7 @@ a:focus {
 }
 
 .contact_section input {
-  width: 100%;
+  width: 245%;
   border: 1px solid #919191;
   height: 50px;
   margin-bottom: 25px;
